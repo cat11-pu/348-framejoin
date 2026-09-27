@@ -1,0 +1,15 @@
+{
+  "budget": 2,
+  "bad_hex_code": "E_BAD_HEX",
+  "empty_code": "E_EMPTY",
+  "short_code": "E_SHORT",
+  "event_error_code": "E_BAD_EVENT",
+  "state": { "frames": [], "buffer": "", "ledger": [], "applied": [] },
+  "events": [
+    { "id": 1, "kind": "feed", "text": "046162636405" },
+    { "id": 2, "kind": "frame" },
+    { "id": 3, "kind": "feed", "text": "6162636465" },
+    { "id": 4, "kind": "frame" },
+    { "id": 5, "kind": "feed", "text": "02" }
+  ]
+}
